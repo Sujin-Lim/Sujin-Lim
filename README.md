@@ -18,8 +18,11 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
   
-  
-![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin-lim&show_icons=true&theme=dracula)
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-lim&hide_progress=false)](https://github.com/sujin-lim/github-readme-stats)
+  
+  <br>
+  
+![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin-lim&show_icons=true&theme=dracula)
 
