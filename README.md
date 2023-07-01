@@ -19,8 +19,4 @@
  <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=for-the-badge&logo=Android Studio&logoColor=white">
 
  <br>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-lim&hide_progress=false)](https://github.com/sujin-lim/github-readme-stats)
-  
-![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin-lim&show_icons=true&theme=dracula)
 
