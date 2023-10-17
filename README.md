@@ -1,8 +1,5 @@
 <div align=center>
 <br><br>
-
-<b>프로젝트 설명은 각 repository의 readme에 있으니 봐주시면 감사하겠습니다(__)</b>
-
 <br><br>
 
 ✔ <b>Language & Tool</b><br><br>
